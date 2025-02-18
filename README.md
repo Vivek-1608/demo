@@ -1,2 +1,2 @@
 #New Project
-Just the basics
+Just the basics.
